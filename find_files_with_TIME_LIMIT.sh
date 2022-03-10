@@ -14,4 +14,4 @@ do
 	fi
 done
 
-echo "Finished!"
+echo "Finished successfully! Yay!!"
